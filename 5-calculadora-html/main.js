@@ -41,6 +41,7 @@ const operation = (num1, num2) => {
   isThereOperation = true;
 };
 
+module.exports = operation;
 // cambiar colores de los botones cuando se operan por teclado
 const plusSingStyle = document.querySelector(".plus").style;
 const minusSingStyle = document.querySelector(".minus").style;
