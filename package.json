@@ -1,0 +1,15 @@
+{
+  "name": "w02ch3-menchu-marin",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest --watchALL"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^27.2.4",
+    "sass": "^1.42.1"
+  }
+}
